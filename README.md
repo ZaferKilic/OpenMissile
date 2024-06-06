@@ -12,11 +12,11 @@
 
 ## Introduction
 
-This project demonstrates how to create a modern Markdown file. Markdown is a lightweight markup language for formatting text.
+OpenMissile is an interface software developed for visualizing RF data obtained from model rockets.
+
+![alt text](http://url/to/img.png)
 
 ## Installation
 
-```bash
-git clone https://www.example.com/repository.git
-cd repository
-npm install
+```pip3 install -r requirements.txt
+```
