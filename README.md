@@ -1,6 +1,6 @@
 
 <p align="center">
-    <span style="color: #FF0049; font-family: Museo Sans Cyrl; font-size: 4em;">OpenMissile</span>
+    <span style="color: #FF0049; font-family: Museo Sans Cyrl; font-size: 2em;">OpenMissile</span>
 </p>
 
 ## Table of Contents
