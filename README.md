@@ -14,7 +14,7 @@
 
 OpenMissile is an interface software developed for visualizing RF data obtained from model rockets.
 
-![alt text](http://url/to/img.png)
+![alt text]([http://url/to/img.png](https://github.com/ZaferKilic/OpenMissile/blob/main/Gallery/Ekran%20Resmi%202024-06-06%2023.47.37.png))
 
 ## Installation
 
