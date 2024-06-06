@@ -1,6 +1,6 @@
 
 <p align="center">
-    <span style="color: #FF0049; font-family: Museo Sans Cyrl; font-size: 20em;">OpenMissile</span>
+  <img src="https://github.com/ZaferKilic/OpenMissile/blob/main/Gallery/Logo.png?raw=true" />
 </p>
 
 ## Table of Contents
