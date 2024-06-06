@@ -25,13 +25,15 @@ pip3 install -r requirements.txt
 ```
 
 ## Usage
-
-
-
-
-<p align="left">
-    <span style="color: #000; font-family: Museo Sans Cyrl; font-size: 1em;">OpenMissile uses the JSON format to parse data coming from the serial port. It writes the data into the appropriate Labels using unique keys for each piece of data.
-    <br>If you are using an Arduino-based microcontroller, you can use the <a href="https://github.com/bblanchon/ArduinoJson">ArduinoJson</a> library.</span>
+OpenMissile uses the JSON format to parse data coming from the serial port. It writes the data into the appropriate Labels using unique keys for each piece of data.
+If you are using an Arduino-based microcontroller, you can use the <a href="https://github.com/bblanchon/ArduinoJson">ArduinoJson</a> library.
 </p>
 
+```
+pip3 install -r requirements.txt
+```
 
+
+
+## License
+This project is licensed under the MIT License. For more details, see the LICENSE file.
