@@ -1,8 +1,6 @@
 # # OpenMissile
-
-
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://github.com/ZaferKilic/OpenMissile/blob/main/Gallery/AliceLogo.png?raw=true)" />
+  <img src="https://github.com/ZaferKilic/OpenMissile/blob/main/Gallery/AliceLogo.png?raw=true" />
 </p>
 
 ## Table of Contents
