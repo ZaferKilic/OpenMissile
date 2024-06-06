@@ -27,10 +27,14 @@ pip3 install -r requirements.txt
 ## Usage
 OpenMissile uses the JSON format to parse data coming from the serial port. It writes the data into the appropriate Labels using unique keys for each piece of data.
 If you are using an Arduino-based microcontroller, you can use the <a href="https://github.com/bblanchon/ArduinoJson">ArduinoJson</a> library.
-</p>
-
 ```
-pip3 install -r requirements.txt
+{
+    "SeaAlt": 123.00,
+    "X": 36.01,
+    "Y": 76.01,
+    "Z": 2.01,
+    "Apogee": 1500
+}
 ```
 
 
