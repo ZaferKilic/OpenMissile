@@ -13,17 +13,18 @@
 6. [License](#license)
 
 ## Features
-    - Visualize data
-    - 3D simulation
-    - Instant location tracking
-    - Voice alerts
-    - Sending data to the rocket
-    - Distance calculation between ground station and rocket
-    - Data rate measurement
-    - Estimated drop point in case of data loss
-    - Video stream
-    - Sharing data via TCP
-    - Compliant with Teknofest competition standards
+- Visualize flight data
+- 3D simulation
+- Instant location tracking
+- Voice alerts
+- Sending command or data to the rocket
+- Distance calculation between ground station and rocket
+- Data rate measurement
+- Estimated drop point in case of data loss
+- Video stream
+- Sharing flight data via TCP
+- Compliant with Teknofest competition standards
+- Record flight data
 
 
 
@@ -58,4 +59,4 @@ If you are using an Arduino-based microcontroller, you can use the <a href="http
 
 
 ## License
-    This project is licensed under the MIT License. For more details, see the LICENSE file.
+This project is licensed under the MIT License. For more details, see the LICENSE file.
