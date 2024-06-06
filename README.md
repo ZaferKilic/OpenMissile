@@ -1,6 +1,6 @@
 # # OpenMissile
 
-![Project Logo]([https://www.example.com/logo.png](https://github.com/ZaferKilic/OpenMissile/blob/main/Gallery/AliceLogo.png?raw=true))
+![Project Logo](https://www.example.com/logo.png](https://github.com/ZaferKilic/OpenMissile/blob/main/Gallery/AliceLogo.png?raw=true))
 
 ## Table of Contents
 
