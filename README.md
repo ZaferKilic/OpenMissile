@@ -1,6 +1,6 @@
 # # OpenMissile
 <p align="center">
-  <img src="https://github.com/ZaferKilic/OpenMissile/blob/main/Gallery/AliceLogo.png?raw=true" />
+  <img src="https://github.com/ZaferKilic/OpenMissile/blob/main/Gallery/Ekran%20Resmi%202024-06-07%2000.01.36.png?raw=true" />
 </p>
 
 ## Table of Contents
