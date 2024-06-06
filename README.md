@@ -1,6 +1,9 @@
 # # OpenMissile
 
-![Project Logo](https://github.com/ZaferKilic/OpenMissile/blob/main/Gallery/AliceLogo.png?raw=true)
+
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://github.com/ZaferKilic/OpenMissile/blob/main/Gallery/AliceLogo.png?raw=true)" />
+</p>
 
 ## Table of Contents
 
