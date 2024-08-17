@@ -7,6 +7,10 @@
 <br> <a href="https://vimeo.com/999917068?share=copy">TRAİLER VİDEO</a></span>
 
 ![alt text](https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Main.png?raw=true)
+<a href="https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Graphs.png"> Graphs </a>
+<a href="https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Maps.png"> Maps </a>
+<a href="https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Profile.png"> Profile </a>
+<a href="https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Settings.png"> Settings </a>
 
 ## Features
 - Data Visualization
