@@ -2,7 +2,7 @@
   <img src="https://github.com/ZaferKilic/OpenMissile/blob/main/Gallery/LargeLogoBG.png?raw=true" />
 </p>
 
-<span> A ground station that visualizes and processes real-time data obtained from model rockets.
+<span> A ground station that visualizes and processes real-time data obtained from model rockets🚀
 <br>
 <br>
 I will not be releasing the project's code for now. I will only provide it as a 1-month trial version to interested teams. Perhaps in the coming weeks, if I feel the project is complete in my mind, I might offer the full version for sale at a reasonable price.</span>
