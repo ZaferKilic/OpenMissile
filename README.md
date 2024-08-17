@@ -1,18 +1,17 @@
 <p align="center">
-  <img src="https://github.com/ZaferKilic/OpenMissile/blob/main/Gallery/LargeLogoBG.png?raw=true" />
+  <img src="https://github.com/ZaferKilic/OpenMissile/blob/main/Images/PngLogoText.png?raw=true" />
 </p>
 
-<span> A ground station that visualizes and processes real-time data obtained from model rockets🚀
+<span> A ground station and test station that visualizes and processes real-time data from model rockets. With OpenMissile, you can obtain accurate analyzes and results by processing data coming from the serial port. It also offers privileges for competitors participating in the Teknofest Rocket Competition🚀
 <br>
-<br>
-I will not be releasing the project's code for now. I will only provide it as a 1-month trial version to interested teams. Perhaps in the coming weeks, if I feel the project is complete in my mind, I might offer the full version for sale at a reasonable price.</span>
+<br> <a href="https://vimeo.com/999917068?share=copy">TRAİLER VİDEO</a></span>
 
-![alt text](https://github.com/ZaferKilic/OpenMissile/blob/main/Gallery/RocketPage.png?raw=true)
+![alt text](https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Main.png?raw=true)
 
 ## Features
 - Data Visualization
 - 3D Simulation
-- Real-time location tracking on the map  
+- Real-time location tracking on the map -- <a href="https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Maps.png">EXAMPLE</a>
 - Audible Alerts
 - Sending commands to the rocket
 - Distance calculation between the rocket and ground station
@@ -22,8 +21,8 @@ I will not be releasing the project's code for now. I will only provide it as a 
 - Sending data to a remote server via TCP
 - Developed according to Teknofest Rocket Competition standards
 - Sending data from the ground station to Teknofest judges
-- Flight data recording
-- Customizable interface
+- Flight data recording -- <a href="https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Profile.png">EXAMPLE</a>
+- Customizable interface -- <a href="https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Settings.png">EXAMPLE</a>
 
 ## Usage
 OpenMissile uses the JSON format to parse data coming from the serial port. It writes the data to appropriate Tags using unique keys for each data piece.
@@ -55,6 +54,8 @@ The faster the data can be received, the smoother the 3D simulation will run. Ho
 }
 ```
 
+## !!!!!!!!!!!
+I will not be releasing the project's code for now. I will only provide it as a 1-month trial version to interested teams. Perhaps in the coming weeks, if I feel the project is complete in my mind, I might offer the full version for sale at a reasonable price.
 
 
 ## Lisans
