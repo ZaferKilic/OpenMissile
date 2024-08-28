@@ -3,6 +3,9 @@
 </p>
 
 <span> A ground station and test station that visualizes and processes real-time data from model rockets. With OpenMissile, you can obtain accurate analyzes and results by processing data coming from the serial port. It also offers privileges for competitors participating in the Teknofest Rocket Competition🚀
+
+## Last Update!
+I improved the user interface optimization in the new update. Flights will now be listed at the bottom of the "Profile" section and the information screen regarding the flight record will open. On the information screen the user can simulate the past flight and re-watch the behavior of the rocket in the air.
 <br>
 <br> <a href="https://vimeo.com/999917068?share=copy">TRAİLER VİDEO</a></span>
 
