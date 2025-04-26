@@ -2,44 +2,49 @@
   <img src="https://github.com/ZaferKilic/OpenMissile/blob/main/Images/PngLogoText.png?raw=true" />
 </p>
 
-<span> A ground station and test station that visualizes and processes real-time data from model rockets. With OpenMissile, you can obtain accurate analyzes and results by processing data coming from the serial port. It also offers privileges for competitors participating in the Teknofest Rocket Competition🚀
+<span> Model roketlerden gelen gerçek zamanlı verileri görselleştirip işleyebilen bir yer istasyonu ve test platformu. OpenMissile sayesinde, seri port üzerinden alınan veriler işlenerek doğru analizler ve sonuçlar elde edebilirsiniz. Ayrıca Teknofest Roket Yarışması'na katılan takımlar için özel ayrıcalıklar da sunmaktadır 🚀
 
-## Last Update!
-I improved the user interface optimization in the new update. Flights will now be listed at the bottom of the "Profile" section and the information screen regarding the flight record will open. On the information screen the user can simulate the past flight and re-watch the behavior of the rocket in the air.
+## Son Güncelleme
+Yeni güncellemede kullanıcı arayüzü optimizasyonlarını geliştirdim. Artık "Profil" sekmesinin altında uçuşlar listelenecek ve uçuş kaydına ait detaylı bilgi ekranı açılacak. Bu bilgi ekranında kullanıcılar geçmiş uçuşu simüle edebilecek ve roketin havadaki hareketlerini yeniden izleyebilecek.
+
 <br>
-<br> <a href="https://vimeo.com/999917068?share=copy">TRAİLER VİDEO</a></span>
+<br> <a href="https://vimeo.com/999917068?share=copy">TANITIM VİDEOSU</a></span>
 
-![alt text](https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Main.png?raw=true)
-<a href="https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Graphs.png"> Graphs </a>
-<a href="https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Maps.png"> Maps </a>
-<a href="https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Profile.png"> Profile </a>
-<a href="https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Settings.png"> Settings </a>
+![Ana Ekran](https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Main.png?raw=true)
+<a href="https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Graphs.png"> Grafikler </a>
+<a href="https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Maps.png"> Haritalar </a>
+<a href="https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Profile.png"> Profil </a>
+<a href="https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Test.png"> SİT ve SUT </a>
+<a href="https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Settings.png"> Ayarlar </a>
 
-## Features
-- Data Visualization
-- 3D Simulation
-- Real-time location tracking on the map -- <a href="https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Maps.png">EXAMPLE</a>
-- Audible Alerts
-- Sending commands to the rocket
-- Distance calculation between the rocket and ground station
-- Data transmission rate measurement
-- [BETA] Landing point estimation in case of data loss
-- Viewing camera footage from the rocket
-- Sending data to a remote server via TCP
-- Developed according to Teknofest Rocket Competition standards
-- Sending data from the ground station to Teknofest judges
-- Flight data recording -- <a href="https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Profile.png">EXAMPLE</a>
-- Customizable interface -- <a href="https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Settings.png">EXAMPLE</a>
+## Özellikler
+- Gerçek zamanlı veri görselleştirme
+- Teknofest Roket Yarışmasında zorunlu olan SİT ve SUT testi
+- 3D Simülasyon
+- Harita üzerinde canlı konum takibi — <a href="https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Maps.png">ÖRNEK</a>
+- Sesli Uyarılar
+- Rokete komut gönderme
+- Roket ile yer istasyonu arasındaki mesafe hesaplama
+- Veri iletim hızı ölçümü
+- [BETA] Veri kaybı durumunda iniş noktası tahmini
+- Roketten kamera görüntüsü izleyebilme
+- Verileri uzaktaki bir sunucuya TCP ile gönderme
+- Teknofest Roket Yarışması standartlarına uygun geliştirme
+- Yer istasyonundan Teknofest roket yarışması hakemlerine veri iletimi
+- Uçuş verilerini kayıt altına alma — <a href="https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Profile.png">ÖRNEK</a>
+- Özelleştirilebilir arayüz — <a href="https://github.com/ZaferKilic/OpenMissile/blob/main/Images/ScreenShots/Settings.png">ÖRNEK</a>
 
-## Usage
-OpenMissile uses the JSON format to parse data coming from the serial port. It writes the data to appropriate Tags using unique keys for each data piece.
-If you are using an Arduino-based microcontroller, you can use the following library: <a href="https://github.com/bblanchon/ArduinoJson">ArduinoJson</a>. 
+## Kullanım
+OpenMissile, seri port üzerinden gelen verileri ayrıştırmak için JSON formatı kullanır. Her veri parçası, benzersiz anahtarlar ile ilgili alanlara yazılır.
 
-The faster the data can be received, the smoother the 3D simulation will run. However, for teams using RF modules that are not suitable for fast data transmission, it is recommended to send data to OpenMissile every 5 received data.
+Arduino tabanlı bir mikrodenetleyici kullanıyorsanız, aşağıdaki kütüphaneyi kullanabilirsiniz: <a href="https://github.com/bblanchon/ArduinoJson">ArduinoJson</a>.
 
-## Examples
-- If you hover over the sections where data is written within OpenMissile, you can see which key it uses.
-- Example of accepted data:
+
+## Kabul Edilen Veri Formatı
+- OpenMissile içinde verilerin yazıldığı bölümlerin üzerine geldiğinizde, hangi anahtarın kullanıldığını görebilirsiniz.
+- Kabul edilen veri örneği:
+
+
 
 ```
     {
@@ -60,10 +65,6 @@ The faster the data can be received, the smoother the 3D simulation will run. Ho
     "GpsAlt": 36.01,
 }
 ```
-
-## !!!!!!!!!!!
-I will not be releasing the project's code for now. I will only provide it as a 1-month trial version to interested teams. Perhaps in the coming weeks, if I feel the project is complete in my mind, I might offer the full version for sale at a reasonable price.
-
 
 ## Lisans
 This project is licensed under the MIT License. For more details, see the LICENSE file.
