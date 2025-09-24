@@ -3,7 +3,7 @@
 </p>
 
 
-<a href="https://www.buymeacoffee.com/c9cwcg6kpjt"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffe&emoji=&slug=c9cwcg6kpjt&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="c9cwcg6kpjt" data-color="#FF5F5F" data-emoji=""  data-font="Cookie" data-text="Buy me a coffe" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 
 <span> Model roketlerden gelen gerçek zamanlı verileri görselleştirip işleyebilen bir yer istasyonu ve test platformu. OpenMissile sayesinde, seri port üzerinden alınan veriler işlenerek doğru analizler ve sonuçlar elde edebilirsiniz. Ayrıca Teknofest Roket Yarışması'na katılan takımlar için özel ayrıcalıklar da sunmaktadır 🚀
 
