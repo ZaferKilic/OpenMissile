@@ -9,6 +9,9 @@
   </a>
 </p>
 
+https://img.shields.io/badge/%3Ca%20href%3D%22https%3A%2F%2Fwww.buymeacoffee.com%2Fc9cwcg6kpjt%22%3E%3Cimg%20src%3D%22https%3A%2F%2Fimg.buymeacoffee.com%2Fbutton-api%2F%3Ftext%3DBuy%20me%20a%20coffe%26emoji%3D%26slug%3Dc9cwcg6kpjt%26button_colour%3DFF5F5F%26font_colour%3Dffffff%26font_family%3DCookie%26outline_colour%3D000000%26coffee_colour%3DFFDD00%22%20%2F%3E%3C%2Fa%3E
+
+
 <span> Model roketlerden gelen gerçek zamanlı verileri görselleştirip işleyebilen bir yer istasyonu ve test platformu. OpenMissile sayesinde, seri port üzerinden alınan veriler işlenerek doğru analizler ve sonuçlar elde edebilirsiniz. Ayrıca Teknofest Roket Yarışması'na katılan takımlar için özel ayrıcalıklar da sunmaktadır 🚀
 
 ## Son Güncelleme
