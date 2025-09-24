@@ -3,11 +3,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/c9cwcg6kpjt" target="_blank">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffe&emoji=&slug=c9cwcg6kpjt&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me a Coffee" />
-  </a>
-</p>
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF5F5F?style=for-the-badge&logo=buymeacoffee&logoColor=ffffff)](https://www.buymeacoffee.com/c9cwcg6kpjt)
 
